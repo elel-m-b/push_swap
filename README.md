@@ -1,8 +1,14 @@
 # 🔄 Push_swap
 
 <div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/db4515c8-e010-453d-9f50-1490a7b4f3e5"
+    alt="Screenshot from 2025-11-11 12-30-47"
+    style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;"
+  />
+</div>
 
-<img src="https://raw.githubusercontent.com/jotavare/jotavare/main/42/banner/piscine_and_common_core/github_piscine_and_common_core_banner_push_swap.png" alt="Push Swap Sorting" width="600"/>
+
 
 <br/>
 <br/>
