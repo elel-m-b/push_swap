@@ -3,7 +3,7 @@ BONUS = checker
 CC = cc
 CFLAGS = -Wall -Wextra -Werror
 
-SRC = algo_utils.c push.c push_swap.c rotate.c sort_alg.c stack_utils.c extra_function.c swap.c utils.c check_input.c  lib.c rotate_2.c more_func.c
+SRC = algo_utils.c main.c push_swap.c rotate.c sort_alg.c stack_utils.c extra_function.c swap.c utils.c check_input.c  lib.c rotate_2.c more_func.c
 SRCBONUS = bonus_part/checker_bonus.c \
 	   bonus_part/check_input_bonus.c \
 	   bonus_part/get_next_line_bonus.c \
