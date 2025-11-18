@@ -18,9 +18,6 @@
 ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
 
 </div>
-  />
-</div>
----
 
 <h2 align="center"> 📖 Description </h2>
 
